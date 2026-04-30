@@ -8,6 +8,30 @@ Open to internships and entry-level software roles where I can contribute across
 
 ## Featured Work
 
+### RetailMind
+Full-stack retail analytics and decision-support platform with Google authentication, CSV sales ingestion, live POS workflows, forecasting, segmentation, basket analysis, realtime notifications, scheduled reporting, and AI-assisted analytics.
+
+[Repository](https://github.com/Addi-20042/retail-insight-hub)
+
+![RetailMind Login](https://raw.githubusercontent.com/Addi-20042/retail-insight-hub/main/docs/screenshots/login-desktop.png)
+
+**What recruiters can review here**
+- React + TypeScript product architecture with Vite, Tailwind CSS, shadcn/ui, and reusable hooks
+- Supabase Auth, Postgres, Realtime, migrations, Edge Functions, and typed client integration
+- Real retail workflows including live POS transaction capture, product scanning, stock updates, and analytics-ready sales records
+- Data features for sales forecasting, customer segmentation, market basket analysis, reports, alerts, and AI chat
+- Professional README, architecture notes, setup guide, screenshots, and public repository metadata
+
+**Tech Stack**
+- React
+- TypeScript
+- Vite
+- Supabase
+- PostgreSQL
+- Tailwind CSS
+- shadcn/ui
+- Flask
+
 ### MediBrief
 AI-powered health assistant that helps users analyze symptoms, understand medical reports, track daily health metrics, manage medication reminders, and use an AI chat workflow from one product.
 
@@ -35,8 +59,9 @@ AI-powered health assistant that helps users analyze symptoms, understand medica
 ## Core Stack
 
 - Frontend: React, TypeScript, Vite, Tailwind CSS, shadcn/ui
-- Backend: Supabase, PostgreSQL, SQL, serverless and edge functions
-- Tools: Git, GitHub, Vercel, Figma, Postman
+- Backend: Supabase, PostgreSQL, SQL, Flask, serverless and edge functions
+- Product: authentication, dashboards, analytics workflows, reports, realtime features, AI integrations
+- Tools: Git, GitHub, Vercel, Figma, Postman, npm
 
 ## What I Value
 
