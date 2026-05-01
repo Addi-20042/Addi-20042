@@ -1,71 +1,70 @@
 # Hi, I'm Aditya
 
-Full-stack developer focused on building polished web applications with **React, TypeScript, Supabase, SQL, and modern UI systems**.
+Aspiring **Data Analyst** with hands-on project experience in SQL-backed analytics dashboards, data cleaning workflows, KPI reporting, forecasting, segmentation, and AI-assisted insight generation.
 
-I enjoy working on products that combine frontend UX, backend workflows, database design, and clear documentation.
+I enjoy turning raw operational data into clear business stories: what changed, why it matters, and what action should come next.
 
-Open to internships and entry-level software roles where I can contribute across frontend, backend, and product delivery.
+Open to internships and entry-level data analyst roles where I can contribute with SQL, dashboards, data storytelling, business analysis, and practical product thinking.
 
 ## Featured Work
 
 ### RetailMind
-Full-stack retail analytics and decision-support platform with Google authentication, CSV sales ingestion, live POS workflows, forecasting, segmentation, basket analysis, realtime notifications, scheduled reporting, and AI-assisted analytics.
+Retail analytics and decision-support platform focused on sales performance, live POS data capture, CSV ingestion, forecasting, customer segmentation, market basket analysis, alerts, reporting, and AI-assisted analytics.
 
 [Repository](https://github.com/Addi-20042/retail-insight-hub)
 
 ![RetailMind Login](https://raw.githubusercontent.com/Addi-20042/retail-insight-hub/main/docs/screenshots/login-desktop.png)
 
 **What recruiters can review here**
-- React + TypeScript product architecture with Vite, Tailwind CSS, shadcn/ui, and reusable hooks
-- Supabase Auth, Postgres, Realtime, migrations, Edge Functions, and typed client integration
-- Real retail workflows including live POS transaction capture, product scanning, stock updates, and analytics-ready sales records
-- Data features for sales forecasting, customer segmentation, market basket analysis, reports, alerts, and AI chat
-- Professional README, architecture notes, setup guide, screenshots, and public repository metadata
+- SQL-backed retail data model with sales, products, profiles, goals, reports, notifications, and POS transaction records
+- Analytics workflows for revenue KPIs, sales forecasting, customer segmentation, basket analysis, low-stock alerts, and scheduled reports
+- Data ingestion through CSV upload plus live POS transaction capture for analytics-ready records
+- Dashboard storytelling with charts, sparklines, heatmaps, activity feeds, and operational metrics
+- Professional documentation, architecture notes, setup guide, screenshots, and public repository metadata
 
 **Tech Stack**
+- SQL
+- PostgreSQL
+- Supabase
+- Excel/CSV data workflows
+- Python
+- Pandas
 - React
 - TypeScript
-- Vite
-- Supabase
-- PostgreSQL
-- Tailwind CSS
-- shadcn/ui
-- Flask
 
 ### MediBrief
-AI-powered health assistant that helps users analyze symptoms, understand medical reports, track daily health metrics, manage medication reminders, and use an AI chat workflow from one product.
+AI-powered health assistant with structured health records, symptom analysis, report summaries, daily health tracking, medication reminders, history, and admin/audit workflows.
 
 [Repository](https://github.com/Addi-20042/MediBrief) | [Live Demo](https://project-14snn.vercel.app)
 
 ![MediBrief Hero](https://raw.githubusercontent.com/Addi-20042/MediBrief/main/docs/github/screenshots/homepage-hero.png)
 
 **What recruiters can review here**
-- React + TypeScript frontend architecture
-- Supabase auth, PostgreSQL schema design, and SQL migrations
-- Edge-function integrations for AI, email, and reminder workflows
-- Real product features including report analysis, symptom analysis, health tracking, and admin tools
-- Deployment-ready documentation and end-to-end product ownership
+- PostgreSQL schema design and SQL migrations for health profiles, tracking history, reminders, admin data, and audit logs
+- Structured analysis workflows that convert symptoms, reports, and health metrics into readable summaries
+- Dashboard-style thinking around user history, health trends, reminder logs, and admin monitoring
+- Data quality and governance details including authentication, role checks, audit trails, privacy pages, and disclaimers
+- Deployment-ready documentation and end-to-end project ownership
 
 **Tech Stack**
+- SQL
+- PostgreSQL
+- Supabase
+- Data modeling
+- AI-assisted analysis
 - React
 - TypeScript
-- Vite
-- Supabase
-- PostgreSQL
-- Tailwind CSS
-- shadcn/ui
-- Edge Functions
 
 ## Core Stack
 
-- Frontend: React, TypeScript, Vite, Tailwind CSS, shadcn/ui
-- Backend: Supabase, PostgreSQL, SQL, Flask, serverless and edge functions
-- Product: authentication, dashboards, analytics workflows, reports, realtime features, AI integrations
-- Tools: Git, GitHub, Vercel, Figma, Postman, npm
+- Data Analysis: SQL, PostgreSQL, KPI dashboards, forecasting, segmentation, reporting, data storytelling
+- Data Workflow: CSV ingestion, validation, cleaning logic, database-backed records, audit-friendly documentation
+- BI/Product Analytics: revenue metrics, customer segments, market basket analysis, health tracking history, operational alerts
+- Technical Tools: Supabase, Python, Pandas, React, TypeScript, Vercel, Git, GitHub, Postman, npm
 
 ## What I Value
 
-- clean, readable code
-- practical product thinking
-- polished UI with useful workflows
+- clear insights over noisy dashboards
+- clean, reliable data models
+- practical business recommendations
 - documentation that helps reviewers understand the work fast
